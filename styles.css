@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(158, 177, 196);
+    
+  }
+  section#hero{
+    background-color: rgb(35, 216, 216);
+  }
+  section#hero h1{
+    font-size: 3rem;
+  }
+  section#hero h2{
+    font-size: 2rem;
+  }
+  .tres img{
+    height: 200px;
+    width:  100%;
+  }
+  section#Experiencia {
+    background-color: rgb(215, 235, 203);
+  }
+  section#Educacion {
+    background-color: rgb(235, 182, 235);
+  }
+  section#contacto {
+    background-color: rgb(34, 190, 201);
+  }
+  section#hola {
+    background-color: rgb(134, 209, 214);
+  }
+  h1{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+  
